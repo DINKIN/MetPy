@@ -1,0 +1,28 @@
+Level3File
+===================
+
+.. currentmodule:: metpy.io
+
+.. autoclass:: Level3File
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+.. include:: metpy.io.Level3File.examples
+
+.. raw:: html
+
+     <div style='clear:both'></div>

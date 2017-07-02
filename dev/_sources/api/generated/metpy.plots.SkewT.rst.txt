@@ -1,0 +1,28 @@
+SkewT
+=================
+
+.. currentmodule:: metpy.plots
+
+.. autoclass:: SkewT
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+.. include:: metpy.plots.SkewT.examples
+
+.. raw:: html
+
+     <div style='clear:both'></div>

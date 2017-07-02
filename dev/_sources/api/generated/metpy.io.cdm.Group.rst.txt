@@ -1,0 +1,28 @@
+Group
+==================
+
+.. currentmodule:: metpy.io.cdm
+
+.. autoclass:: Group
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+.. include:: metpy.io.cdm.Group.examples
+
+.. raw:: html
+
+     <div style='clear:both'></div>

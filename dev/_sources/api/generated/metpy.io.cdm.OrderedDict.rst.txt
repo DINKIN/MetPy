@@ -1,0 +1,28 @@
+OrderedDict
+========================
+
+.. currentmodule:: metpy.io.cdm
+
+.. autoclass:: OrderedDict
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+.. include:: metpy.io.cdm.OrderedDict.examples
+
+.. raw:: html
+
+     <div style='clear:both'></div>

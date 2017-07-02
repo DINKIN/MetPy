@@ -1,0 +1,28 @@
+Variable
+=====================
+
+.. currentmodule:: metpy.io.cdm
+
+.. autoclass:: Variable
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+.. include:: metpy.io.cdm.Variable.examples
+
+.. raw:: html
+
+     <div style='clear:both'></div>

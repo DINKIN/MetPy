@@ -1,0 +1,28 @@
+Level2File
+===================
+
+.. currentmodule:: metpy.io
+
+.. autoclass:: Level2File
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+.. include:: metpy.io.Level2File.examples
+
+.. raw:: html
+
+     <div style='clear:both'></div>

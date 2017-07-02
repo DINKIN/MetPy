@@ -1,0 +1,28 @@
+AttributeContainer
+===============================
+
+.. currentmodule:: metpy.io.cdm
+
+.. autoclass:: AttributeContainer
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+.. include:: metpy.io.cdm.AttributeContainer.examples
+
+.. raw:: html
+
+     <div style='clear:both'></div>

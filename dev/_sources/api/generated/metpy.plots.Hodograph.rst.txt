@@ -1,0 +1,28 @@
+Hodograph
+=====================
+
+.. currentmodule:: metpy.plots
+
+.. autoclass:: Hodograph
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+.. include:: metpy.plots.Hodograph.examples
+
+.. raw:: html
+
+     <div style='clear:both'></div>

@@ -1,0 +1,28 @@
+GiniFile
+=================
+
+.. currentmodule:: metpy.io
+
+.. autoclass:: GiniFile
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+.. include:: metpy.io.GiniFile.examples
+
+.. raw:: html
+
+     <div style='clear:both'></div>

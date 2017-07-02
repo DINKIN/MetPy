@@ -1,0 +1,28 @@
+ColortableRegistry
+======================================
+
+.. currentmodule:: metpy.plots.ctables
+
+.. autoclass:: ColortableRegistry
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+.. include:: metpy.plots.ctables.ColortableRegistry.examples
+
+.. raw:: html
+
+     <div style='clear:both'></div>

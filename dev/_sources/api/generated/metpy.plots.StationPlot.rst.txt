@@ -1,0 +1,28 @@
+StationPlot
+=======================
+
+.. currentmodule:: metpy.plots
+
+.. autoclass:: StationPlot
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+.. include:: metpy.plots.StationPlot.examples
+
+.. raw:: html
+
+     <div style='clear:both'></div>

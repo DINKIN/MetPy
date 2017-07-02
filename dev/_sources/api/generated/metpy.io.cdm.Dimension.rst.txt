@@ -1,0 +1,28 @@
+Dimension
+======================
+
+.. currentmodule:: metpy.io.cdm
+
+.. autoclass:: Dimension
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+.. include:: metpy.io.cdm.Dimension.examples
+
+.. raw:: html
+
+     <div style='clear:both'></div>

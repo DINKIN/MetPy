@@ -1,0 +1,28 @@
+Dataset
+====================
+
+.. currentmodule:: metpy.io.cdm
+
+.. autoclass:: Dataset
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+.. include:: metpy.io.cdm.Dataset.examples
+
+.. raw:: html
+
+     <div style='clear:both'></div>
